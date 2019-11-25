@@ -33,7 +33,7 @@ Go to your browser and type `IPaddressofyourPI` and hit Enter.
 
 You will see the welcome message from your server: 
 
-**Hello Node.js server! - 2019-11-25T00:58:00.299Z**
+*Hello Node.js server! - 2019-11-25T00:58:00.299Z*
 
 That's it! Congrats!
 
